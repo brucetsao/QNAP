@@ -6,7 +6,8 @@
 </head>
 
 <body>
+<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/563413/charts/3?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Humidity&type=line&xaxis=Date+%26+Time&yaxis=Percentage"></iframe>
 
-<iframe width="450" height="250" style="border: 1px solid #cccccc;" src="http://thingspeak.com/channels/56432/charts/Field1"></iframe>
+
 </body>
 </html>
